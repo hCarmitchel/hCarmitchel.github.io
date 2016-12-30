@@ -30,3 +30,5 @@ twitter_url: https://twitter.com/hcarmitchel
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-minimal
