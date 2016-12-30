@@ -1,1 +1,32 @@
-theme: jekyll-theme-minimal
+# Site settings
+title: Heather
+subtitle: Carmitchel
+email: heathercarmitchel@gmail.com
+description: Ruby developer located in Kansas City, Kansas
+baseurl: '/heather-carmitchel' # the subpath of your site, e.g. /blog
+url: 'https://hCarmitchel.github.io' # the base hostname & protocol for your site
+author:
+street_address: Please contact me via email for address
+city:
+state:
+zip_code:
+country:
+phone: Please contact me via email for phone number
+
+# Homepage tiles
+tiles-source: posts # accepts 'posts' or 'pages'
+tiles-count: 6
+
+# Social settings
+500px_url:
+facebook_url: https://www.facebook.com/hcarmitchel
+github_url: https://github.com/hCarmitchel
+googleplus_url: https://plus.google.com/u/0/+HeatherCarmitchel
+instagram_url: https://www.instagram.com/stormageddon9
+linkedin_url: https://www.linkedin.com/in/heather-carmitchel-51510745
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/hcarmitchel
+
+# Build settings
+markdown: kramdown
