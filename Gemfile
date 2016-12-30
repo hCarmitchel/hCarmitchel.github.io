@@ -1,2 +1,5 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
+
+gem 'minima', '~> 2.0'
+
 gemspec
