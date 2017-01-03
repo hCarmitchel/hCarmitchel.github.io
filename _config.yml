@@ -30,4 +30,4 @@ twitter_url: https://twitter.com/hcarmitchel
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: forty_jekyll_theme
