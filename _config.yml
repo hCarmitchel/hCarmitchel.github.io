@@ -3,7 +3,6 @@ title: Heather
 subtitle: Carmitchel
 email: heathercarmitchel@gmail.com
 description: Ruby developer located in Kansas City, Kansas
-baseurl: '/heather-carmitchel' # the subpath of your site, e.g. /blog
 url: 'https://hCarmitchel.github.io' # the base hostname & protocol for your site
 author:
 street_address: Please contact me via email for address
