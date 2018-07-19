@@ -3,7 +3,7 @@ title: Heather
 subtitle: Carmitchel
 email: heathercarmitchel@gmail.com
 description: Ruby developer located in Kansas City, Kansas
-url: 'https://hCarmitchel.github.io' # the base hostname & protocol for your site
+url: 'https://heatherBoveri.github.io' # the base hostname & protocol for your site
 author:
 street_address: Please contact me via email for address
 city:
@@ -18,14 +18,14 @@ tiles-count: 6
 
 # Social settings
 500px_url:
-facebook_url: https://www.facebook.com/hcarmitchel
-github_url: https://github.com/hCarmitchel
+facebook_url: https://www.facebook.com/heatherBoveri
+github_url: https://github.com/heatherBoveri
 googleplus_url: https://plus.google.com/u/0/+HeatherCarmitchel
 instagram_url: https://www.instagram.com/stormageddon9
 linkedin_url: https://www.linkedin.com/in/heather-carmitchel-51510745
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/hcarmitchel
+twitter_url: https://twitter.com/heatherBoveri
 
 # Build settings
 markdown: kramdown
