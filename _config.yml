@@ -1,7 +1,7 @@
 # Site settings
 title: Heather
-subtitle: Carmitchel
-email: heathercarmitchel@gmail.com
+subtitle: Boveri
+email: heatherboveri@gmail.com
 description: Ruby developer located in Kansas City, Kansas
 url: 'https://heatherBoveri.github.io' # the base hostname & protocol for your site
 author:
@@ -20,9 +20,9 @@ tiles-count: 6
 500px_url:
 facebook_url: https://www.facebook.com/heatherBoveri
 github_url: https://github.com/heatherBoveri
-googleplus_url: https://plus.google.com/u/0/+HeatherCarmitchel
+googleplus_url: https://plus.google.com/u/0/+HeatherBoveri
 instagram_url: https://www.instagram.com/stormageddon9
-linkedin_url: https://www.linkedin.com/in/heather-carmitchel-51510745
+linkedin_url: https://www.linkedin.com/in/heather-boveri-51510745
 pinterest_url:
 slack_url:
 twitter_url: https://twitter.com/heatherBoveri
