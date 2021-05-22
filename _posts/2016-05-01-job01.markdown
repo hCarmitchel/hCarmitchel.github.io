@@ -1,0 +1,8 @@
+---
+layout: null
+title: May 2016 - August 2018
+subtitle: Team Lead - Software Engineer
+image: "img/timeline/cerner.png"
+---
+Managed a team of up to 7 engineers while owning up to 13 applications/services<br/><br/>
+**Key project:** Designed a new service with my team which eliminated deployment dependencies

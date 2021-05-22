@@ -1,0 +1,8 @@
+---
+layout: null
+title: October 2020 - Present
+subtitle: Senior Software Engineering Manager
+image: "img/timeline/logikcull.jpg"
+---
+Managed a team of up to 9 frontend and fullstack software engineers across 3 teams <br/><br/>
+**Key project:** Planned, contributed to, and led cross-team redesign of the critical workflows of the application which moved a significant portion of the app from Backbone to React, created new React components in our library, and increase application design consistency

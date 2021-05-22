@@ -1,0 +1,7 @@
+I"Ï<ul>
+  <li>Contributed to large refactoring of processing code for complex legacy features to improve stability and provide new features</li>
+  <li>Developed and deployed proof of concept through to production for new Serverless event-driven service to track data usage later used in invoicing</li>
+  <li>Created IAM policies, alerting and monitoring for new service in AWS
+Utilized many AWS services including Lamba, Kinesis, DynamoDB, Athena, and S3</li>
+</ul>
+:ET

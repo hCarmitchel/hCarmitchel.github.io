@@ -1,0 +1,7 @@
+---
+layout: null
+title: October 2011 - May 2013
+subtitle: Student Software Developer
+image: "img/timeline/kstate.jpg"
+---
+Contributed code for web applications used by the university, mainly in Java. Graduated in My 2013.

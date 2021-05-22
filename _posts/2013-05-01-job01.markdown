@@ -1,0 +1,9 @@
+---
+layout: null
+title: May 2013 - May 2016
+subtitle: Software Engineer
+image: "img/timeline/cerner.png"
+---
+Contributed code to Rails applications, services, and libraries for green-field platform
+<br/><br/>
+**Key project:** Created standard service client gem which was used as the core for future Ruby service clients
