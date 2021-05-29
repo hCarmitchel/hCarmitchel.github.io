@@ -96,7 +96,6 @@ a:focus {
 
 .navbar-custom .nav li.active {
     outline: nonte;
-    background-color: rgba(255,255,255,.3);
 }
 
 .navbar-custom .nav li a {
@@ -109,7 +108,6 @@ a:focus {
 .navbar-custom .nav li a:focus,
 .navbar-custom .nav li a.active {
     outline: 0;
-    background-color: rgba(255,255,255,.3);
 }
 
 @media(min-width:767px) {
